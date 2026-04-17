@@ -1,0 +1,390 @@
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Form1.resources
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccessDTC.dll
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\LuuDuLieuSinhVien\2001230680_NguyenCaoTanPhuc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+E:\CSDL\BMCSDL\BTVN_Buoi3\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+D:\DoAn\DoAn\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.SuggestedBindingRedirects.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ExpressionEvaluator.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.dll
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.pdb
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.xml
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.ResolveComReference.cache
+D:\28_TruongToDinhPhuoc\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.SignedNumber.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.ResolveComReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.SignedNumber.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ExpressionEvaluator.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ExpressionEvaluator.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.ResolveComReference.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.PhanQuyen.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.SignedNumber.resources
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+E:\CSDL\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.exe
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ConnectOracle.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ExpressionEvaluator.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Buffers.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Memory.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Text.Json.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.ValueTuple.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\UtilsLib.dll.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.AssemblyReference.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.ResolveComReference.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DangNhap.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormChinh.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.PhanQuyen.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Properties.Resources.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.SignedNumber.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.GenerateResource.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.CoreCompileInputs.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectO.9D8410F6.Up2Date
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.exe
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormNhapOTP.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\ExpressionEvaluator.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\Antlr3.Runtime.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\GSF.Core.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\itextsharp.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Collections.Immutable.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\bin\Debug\System.Reflection.Metadata.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.csproj.ResolveComReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionRSA.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FileEncryptionUI.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormNhapOTP.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.FormVerify.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc5.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.Muc6.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.PhanQuyen.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.SignedNumber.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.ExportEncryptedColumn.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.DesEncryptedColumn.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.QuanLyProfile.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\ConnectOracle\ConnectOracle\obj\Debug\ConnectOracle.MainForm.resources

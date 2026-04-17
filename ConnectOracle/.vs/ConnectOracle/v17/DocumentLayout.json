@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\muc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\muc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|d:\\code\\doanhoanchinh(stt th\u00E0nh vi\u00EAn - 26, 28)\\doanhoanchinh(stt th\u00E0nh vi\u00EAn - 26, 28)\\connectoracle\\connectoracle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\formchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\muc6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\muc6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\muc6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\muc6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\muc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\muc5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\quanlyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\quanlyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\quanlyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\quanlyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\muc5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\muc5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\desoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\desoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\connectoracle\\fileencryptionrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85871A48-6131-4926-8B12-39C046711D9F}|ConnectOracle\\ConnectOracle.csproj|solutionrelative:connectoracle\\fileencryptionrsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.Designer.cs",
+              "RelativeToolTip": "ConnectOracle\\MainForm.Designer.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAtwNMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:44:24.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormChinh.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\FormChinh.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\FormChinh.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\FormChinh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\FormChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:32:35.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormChinh.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\FormChinh.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\FormChinh.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\FormChinh.cs",
+              "RelativeToolTip": "ConnectOracle\\FormChinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:32:36.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\MainForm.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.cs [Design]",
+              "RelativeToolTip": "ConnectOracle\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:17:19.069Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Muc6.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc6.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Muc6.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc6.cs",
+              "RelativeToolTip": "ConnectOracle\\Muc6.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAowIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:23:05.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Muc5.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Muc5.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.cs [Design]",
+              "RelativeToolTip": "ConnectOracle\\Muc5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:23:12.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\MainForm.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\MainForm.cs",
+              "RelativeToolTip": "ConnectOracle\\MainForm.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAowO0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:17:21.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Muc6.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc6.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Muc6.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\Muc6.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\Muc6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:23:00.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhanQuyen.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\PhanQuyen.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\PhanQuyen.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\PhanQuyen.cs",
+              "RelativeToolTip": "ConnectOracle\\PhanQuyen.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAYwHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:49:04.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Database.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Database.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Database.cs",
+              "RelativeToolTip": "ConnectOracle\\Database.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:19:04.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\DangNhap.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\DangNhap.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:32:45.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhanQuyen.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\PhanQuyen.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\PhanQuyen.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\PhanQuyen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\PhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:42:37.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Muc5.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Muc5.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.cs",
+              "RelativeToolTip": "ConnectOracle\\Muc5.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAowKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:29:36.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QuanLyProfile.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\QuanLyProfile.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\QuanLyProfile.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\QuanLyProfile.cs",
+              "RelativeToolTip": "ConnectOracle\\QuanLyProfile.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAowM4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:14:44.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\DangNhap.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\DangNhap.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\DangNhap.cs",
+              "RelativeToolTip": "ConnectOracle\\DangNhap.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAowOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:27:58.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\EmailHelper.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\EmailHelper.cs",
+              "RelativeToolTip": "ConnectOracle\\EmailHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:34:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QuanLyProfile.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\QuanLyProfile.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\QuanLyProfile.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\QuanLyProfile.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\QuanLyProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:14:37.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Muc5.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.Designer.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\Muc5.Designer.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\Muc5.Designer.cs",
+              "RelativeToolTip": "ConnectOracle\\Muc5.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:29:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FileEncryptionRSA.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\FileEncryptionRSA.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\FileEncryptionRSA.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\FileEncryptionRSA.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\BMCSDL\\28_TruongToDinhPhuoc\\ConnectOracle\\ConnectOracle\\FileEncryptionRSA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:02:04.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DesOracle.cs",
+              "DocumentMoniker": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\DesOracle.cs",
+              "RelativeDocumentMoniker": "ConnectOracle\\DesOracle.cs",
+              "ToolTip": "D:\\Code\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\DoAnHoanChinh(STT Th\u00E0nh Vi\u00EAn - 26, 28)\\ConnectOracle\\ConnectOracle\\DesOracle.cs",
+              "RelativeToolTip": "ConnectOracle\\DesOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T10:19:26.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

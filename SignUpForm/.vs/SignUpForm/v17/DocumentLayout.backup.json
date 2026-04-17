@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|d:\\code\\bmcsdl\\28_truongtodinhphuoc\\signupform\\signupform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\emailhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\formnhapotp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\formnhapotp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\formnhapotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\formnhapotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\signupform\\formnhapotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99DD518-64C8-4841-B485-0BC3CD331836}|SignUpForm\\SignUpForm.csproj|solutionrelative:signupform\\formnhapotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.Designer.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\SignUp.Designer.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.Designer.cs",
+              "RelativeToolTip": "SignUpForm\\SignUp.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAArwC8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:54:53.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\SignUp.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.cs",
+              "RelativeToolTip": "SignUpForm\\SignUp.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwKAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:40:34.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNhapOTP.Designer.cs",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.Designer.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\FormNhapOTP.Designer.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.Designer.cs",
+              "RelativeToolTip": "SignUpForm\\FormNhapOTP.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:10:24.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormNhapOTP.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\FormNhapOTP.cs",
+              "ToolTip": "C:\\Users\\Dphuoc1903\\Downloads\\28_TruongToDinhPhuoc (1) (1)\\28_TruongToDinhPhuoc (1)\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:10:16.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormNhapOTP.cs",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\FormNhapOTP.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\FormNhapOTP.cs",
+              "RelativeToolTip": "SignUpForm\\FormNhapOTP.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:09:45.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailHelper.cs",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\EmailHelper.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\EmailHelper.cs",
+              "ToolTip": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\EmailHelper.cs",
+              "RelativeToolTip": "SignUpForm\\EmailHelper.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:05:10.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\Code\\BMCSDL\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUpForm\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Dphuoc1903\\Downloads\\28_TruongToDinhPhuoc (1) (1)\\28_TruongToDinhPhuoc (1)\\28_TruongToDinhPhuoc\\SignUpForm\\SignUpForm\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:36:05.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

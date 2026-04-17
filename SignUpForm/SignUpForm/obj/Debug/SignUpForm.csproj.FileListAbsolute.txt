@@ -1,0 +1,186 @@
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Buffers.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Memory.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.dll
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Buffers.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Memory.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.xml
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Form1.resources
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.Up2Date
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+D:\Code\Web\LTWeb\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Buffers.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Memory.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.dll
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Buffers.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Memory.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.xml
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignIn.resources
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.Up2Date
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+D:\Code\BMCSDL\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignUp.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.Up2Date
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.xml
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.pdb
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe.config
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.FormNhapOTP.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignUp.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.Up2Date
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+D:\Code\BMCSDL\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Buffers.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Memory.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Text.Json.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\System.ValueTuple.xml
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.pdb
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\bin\Debug\UtilsLib.dll.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe.config
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.FormNhapOTP.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignUp.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.Up2Date
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+C:\Users\Dphuoc1903\Downloads\28_TruongToDinhPhuoc (1) (1)\28_TruongToDinhPhuoc (1)\28_TruongToDinhPhuoc\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
